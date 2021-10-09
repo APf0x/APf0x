@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APf0x&show_icons=true&theme=radical)
+
 
 <!--
 **APf0x/APf0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
