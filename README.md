@@ -1,7 +1,17 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
+<h2 align="center">
+ 
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
 
 
+
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APf0x&show_icons=true&theme=radical)
 
@@ -15,3 +25,4 @@
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=APf0x)](https://wakatime.com/@APf0x)
 
+</h2>
