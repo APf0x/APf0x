@@ -15,13 +15,7 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
 
 
  
- 
 
-
- 
-<div align="center">
- 
-<h1><i>Stats</i></h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
@@ -39,5 +33,3 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=APf0x)](https://wakatime.com/@APf0x)
 
-
-</div>
