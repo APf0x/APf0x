@@ -13,7 +13,7 @@
 
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
+
  
  
 
@@ -23,7 +23,7 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
  
 <h1><i>Stats</i></h1>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=APf0x&show_icons=true&theme=radical)
 
