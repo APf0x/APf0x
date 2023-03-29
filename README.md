@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
