@@ -9,7 +9,7 @@
 
 
  
-<img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" />
+<img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="250" />
 
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
 
@@ -17,7 +17,9 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
  
 
 
-<h3 align="center">
+<div align="center">
+ 
+<h1><i>Stats</i></h1>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
@@ -37,4 +39,4 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
 
 
  
-</h3>
+</div>
