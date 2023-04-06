@@ -8,10 +8,25 @@
 </h2>
 
 
- 
-<img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" />
 
-Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
+
+
+
+
+  <body>
+    <table width="100%" height="100%">
+      <tr>
+        <td>
+          <img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" />
+         Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
+         </td>
+      </tr>
+    </table>
+  </body>
+  
+
+
+
 
  
 
