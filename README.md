@@ -8,7 +8,7 @@
 <h2 align="center"> 🦊<a href="https://resume.io/r/oPlPUJ5iB"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </a>🦊 </h2>
 
   <div align="center">
-<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="545" align="right" />
+<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="540" align="right" />
 
 </div>
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
