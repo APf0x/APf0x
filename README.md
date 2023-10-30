@@ -1,8 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
 
-
-<div>
+<div align="center">
+<img  src="background.jpg" width="950" >
+</div>
 
 <h2 align="center"> 🦊<a href="https://resume.io/r/oPlPUJ5iB"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </a>🦊 </h2>
 
