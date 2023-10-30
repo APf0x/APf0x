@@ -11,9 +11,10 @@
 <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" align="right" />
 
 </div>
-
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
- <br><br><br><br><br><br><br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APf0x&layout=compact&theme=radical&langs_count=18&exclude_repo=in-rotation)](https://github.com/anuraghazra/github-readme-stats)
+ <br><br>
  
 </div>
 <br>
