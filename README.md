@@ -13,8 +13,8 @@
 </div>
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APf0x&layout=compact&theme=radical&langs_count=18&exclude_repo=in-rotation)](https://github.com/anuraghazra/github-readme-stats)
- <br><br>
+[![wakatime](https://wakatime.com/badge/user/e19f8369-2852-4f63-b237-3d52dcac5ab3.svg)](https://wakatime.com/@e19f8369-2852-4f63-b237-3d52dcac5ab3)
+ <br><br><br><br><br><br>
  
 </div>
 <br>
@@ -34,7 +34,6 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
 
 
 
-[![wakatime](https://wakatime.com/badge/user/e19f8369-2852-4f63-b237-3d52dcac5ab3.svg)](https://wakatime.com/@e19f8369-2852-4f63-b237-3d52dcac5ab3)
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=APf0x)](https://wakatime.com/@APf0x)
 
