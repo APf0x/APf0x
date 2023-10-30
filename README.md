@@ -1,24 +1,24 @@
-<h2 align="center">
- 
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&height=100&lines=hiiiiiiii+i'm+fox+so+exited+to+have+you+here+%F0%9F%98%81%F0%9F%98%81%F0%9F%98%81;Feel+free+to+have+a+look+around!!!)](https://git.io/typing-svg) 
 
 
+<div>
 
-</h2>
+<h2 align="center"> 🦊<a href="https://resume.io/r/oPlPUJ5iB"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </a>🦊 </h2>
 
+  <div align="center">
+<img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" align="right" />
 
- 
-<img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  title="from Printerest" alt="this slowpoke moves"  width="500" />
+</div>
 
 Hi, this is fox. An coding student and programmer. I spend my free time working on various projects and studying. I'm currently learning various algorythms, pointers and much more. Feel free to contact me on my social media 😄😄😄.
-
+ <br><br><br><br><br><br><br><br>
  
-
-
+</div>
+<br>
 <div align="center">
- 
-<h1><i>Stats</i></h1>
+<br>
+<h2><i>Stats</i></h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
