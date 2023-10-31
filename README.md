@@ -20,7 +20,13 @@ Hi, this is fox. An coding student and programmer. I spend my free time working 
 <br>
 <div align="center">
 <br>
-<h2><i>Stats</i></h2>
+  
+<h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
+
+<!-- Daily Quote Placeholder -->
+
+<br><br>
+<h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
