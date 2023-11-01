@@ -12,7 +12,7 @@ def fetch_daily_quote():
     else:
         return None
 
-with open("README.MD", 'r') as file:
+with open("README.md", 'r') as file:
     markdown_content = file.read()
 
 
@@ -32,5 +32,5 @@ if daily_quote:
 
     
 
-    with open("README.MD", 'w') as file:
+    with open("README.md", 'w') as file:
         file.write(modified_markdown)
