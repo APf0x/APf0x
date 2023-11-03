@@ -22,13 +22,13 @@ if daily_quote:
 
     html_content = markdown.markdown(markdown_content)
     
-
-    html_content = html_content.replace('<!-- Daily Quote Placeholder -->', f'<blockquote>{daily_quote}</blockquote>')
+    start_blockquote = html_content.find('<blockquote>')
+    end_blockquote = html_content.find('</blockquote>', start_blockquote) + len('</blockquote>')
     
-
+    if start_blockquote != -1 and end_blockquote != -1:
+        html_content = html_content[:start_blockquote] + f'<blockquote>{daily_quote}</blockquote>' + html_content[end_blockquote:]
+    
     modified_markdown = markdown.markdown(html_content)
-
-
 
     
 
