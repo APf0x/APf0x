@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</blockquote>
+<blockquote>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
