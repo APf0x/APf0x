@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</blockquote>
+<blockquote>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
