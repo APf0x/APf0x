@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Be happy now, without reason - or you never will be at all.</blockquote>
+<blockquote>Create each day anew.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
