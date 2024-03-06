@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Admire as much as you can. Most people do not admire enough.</blockquote>
+<blockquote>The world doesn't always give you want, but it often gives you what you need.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
