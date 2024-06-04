@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</blockquote>
+<blockquote>There are two things a person should never be angry at, what they can help, and what they cannot.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
