@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</blockquote>
+<blockquote>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
