@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</blockquote>
+<blockquote>Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
