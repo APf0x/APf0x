@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>I never dwell on what happened. You can't change it. Move forward.</blockquote>
+<blockquote>Listen to the secret sound, the real sound, which is inside you.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
