@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Whatever you are, be a good one.</blockquote>
+<blockquote>Luck is a matter of preparation meeting opportunity.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
