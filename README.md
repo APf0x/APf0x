@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</blockquote>
+<blockquote>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
