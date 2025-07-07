@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>The longer we dwell on our misfortunes, the greater is their power to harm us.</blockquote>
+<blockquote>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
