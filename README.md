@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>It is what we make out of what we have, not what we are given, that separates one person from another.</blockquote>
+<blockquote>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
