@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</blockquote>
+<blockquote>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
