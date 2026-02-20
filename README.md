@@ -19,7 +19,7 @@
 
 <h2><i>🦊 ~ 𝓠𝓾𝓸𝓽𝓮 𝓸𝓯 𝓽𝓱𝓮 𝓭𝓪𝔂 ~ 🦊</i></h2>
 
-<blockquote>Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. </blockquote>
+<blockquote>The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.</blockquote>
 
 <br><br>
 <h2><i>🦊 ~ 𝓢𝓽𝓪𝓽𝓼 ~ 🦊</i></h2>
