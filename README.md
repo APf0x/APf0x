@@ -3,7 +3,7 @@
 
 
 <div style="text-align: center;">
-    <img src="new_gojo.png"/>
+    <img src="new_gojo.png" style="display: inline-block;"/>
 </div>
 
 
