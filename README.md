@@ -1,6 +1,4 @@
-
 <h2 align="left">APf0x</h2>
-
 
 <div align="center">
     <img src="new_gojo.png" style="display: block; margin: 0 auto;"/>
