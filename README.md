@@ -7,11 +7,13 @@
 <p>Hi, i should start using my real name to actually build an image, oh well, this is my github page, no one looks at it, all i do here is just because of my love for creation, this is home to many projects, most are private, because.</p>
 <p>i  dont really use wakatime anymore its 3 years behind </a>
 
+i use arch btw
+
 <div align="center">
 
 
 <h2><i>stats</i></h2>
-
+t
 [![GitHub Streak](https://streak-stats.demolab.com/?user=APf0x&theme=dark)](https://git.io/streak-stats)
 
 </div>
